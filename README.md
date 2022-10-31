@@ -3,7 +3,7 @@
 <!--
 **YuraYangel/YuraYangel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- uses: Platane/snk@v2
+- uses: Platane/YuraYangel
   with:
     # github user name to read the contribution graph from (**required**)
     # using action context var `github.repository_owner` or specified user
