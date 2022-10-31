@@ -6,6 +6,17 @@
 
 
 
+<p align="left">
+</p>
+
+
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yurayangel&show_icons=true&theme=dark&locale=en" alt="yurayangel" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yurayangel&theme=dark" alt="yurayangel" /></p>
+
+
 
 
 ### Language :white_check_mark:
