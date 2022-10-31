@@ -1,39 +1,15 @@
 
 
 
-##Snake eating my contribution graph 
+## Higher-IT School  :black_large_square:
 ![snake gif](https://github.com/YuraYangel/YuraYangel/blob/output/github-contribution-grid-snake.gif)
 
 
 
 
 
+### Language :white_check_mark:
 
+![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=Kotlin)
+![С++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b)
 
-
-
-
-
-
-<!--
-**YuraYangel/YuraYangel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- uses: Platane/YuraYangel
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ github.repository_owner }}
-
-    # list of files to generate.
-    # one file per line. Each output can be customized with options as query string.
-    #
-    #  supported options:
-    #  - palette:     A preset of color, one of [github, github-dark, github-light]
-    #  - color_snake: Color of the snake
-    #  - color_dots:  Coma separated list of dots color.
-    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
-    #                 Exactly 5 colors are expected.
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
