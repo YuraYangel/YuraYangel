@@ -2,7 +2,7 @@
 
 
 ## Higher-IT School  :black_large_square:
-![snake gif](https://github.com/YuraYangel/YuraYangel/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/YuraYangel/YuraYangel/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 
